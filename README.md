@@ -1,1 +1,1 @@
-# main
+Quadratic Equation Solver
